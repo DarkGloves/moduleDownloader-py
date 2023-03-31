@@ -14,5 +14,7 @@ import colorama
 import termcolor
 ```
 This program will check if the modules 'colorama' and 'termcolor' are avaiable.
+<br>
 You must change pipver=3 with the python version you are using (in my case python 3, so 3)
+<br>
 You can also add as many modules as you want.
