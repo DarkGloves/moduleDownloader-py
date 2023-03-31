@@ -2,6 +2,8 @@
 A module that downloads other modules from pypi in case they're not installed on your device.
 
 ## Installation
-```sh pip install pystyle```
+```sh
+pip install pystyle
+```
 ## Usage:
 Its usage is very simple, you just have to follo whtis syntax:
