@@ -8,7 +8,7 @@ pip install pystyle
 ## Usage:
 Its usage is very simple, you just have to follow this syntax:
 ```sh
-from moduleDownloader impor getmodules
+from moduleDownloader import getmodules
 getmodules('colorama', 'termcolor', pipver=3)
 import colorama
 import termcolor
