@@ -3,7 +3,7 @@ A module that downloads other modules from PyPi in case they're not installed on
 
 ## Installation
 ```sh
-pip install pystyle
+Not actually in PyPi, so download the moduleDownloader.py file and paste it in your proyect folder
 ```
 ## Usage:
 Its usage is very simple, you just have to follow this syntax:
