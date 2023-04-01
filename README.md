@@ -7,7 +7,7 @@ Not actually in PyPi, so download the moduleDownloader.py file and paste it in y
 ```
 ## Usage:
 Its usage is very simple, you just have to follow this syntax:
-```sh
+```python
 from moduleDownloader import getmodules
 getmodules('colorama', 'termcolor', pipver=3)
 import colorama
