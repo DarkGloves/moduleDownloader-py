@@ -2,7 +2,7 @@
 A module that downloads other modules from PyPi in case they're not installed on your device.
 
 ## Installation
-```sh
+```
 Not actually in PyPi, so download the moduleDownloader.py file and paste it in your proyect folder
 ```
 ## Usage:
