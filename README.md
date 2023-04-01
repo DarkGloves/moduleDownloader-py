@@ -14,6 +14,7 @@ import colorama
 import termcolor
 ```
 This program will check if the modules 'colorama' and 'termcolor' are installed in your computer. In case no, it'll execute the command 'pip install modulename'.
+## Notes:
 <br>
 · You must change pipver=3 with the python version you are using (in my case python 3, so 3)
 <br>
